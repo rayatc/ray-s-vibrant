@@ -1,0 +1,21 @@
+{
+    "name": "ray-s-vibrant",
+    "displayName": "Ray's Vibrant",
+    "description": "Dark monokai based theme with colorful syntax highlighting",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ray's Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ray's Vibrant-color-theme.json"
+            }
+        ]
+    }
+}
