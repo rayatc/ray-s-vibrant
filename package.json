@@ -4,12 +4,17 @@
     "description": "Dark monokai based theme with colorful syntax highlighting",
     "version": "0.0.2",
 	"icon": "icon.png",
+	"publisher": "rayated",
     "engines": {
         "vscode": "^1.58.0"
     },
     "categories": [
         "Themes"
     ],
+	"repository": {
+		"url": "https://github.com/rayatc/ray-s-vibrant",
+		"type": "git"
+	},
     "contributes": {
         "themes": [
             {
@@ -22,6 +27,7 @@
 	"keywords": [
 		"beautiful functionality",
 		"focus",
+		"colorful",
 		"minimal",
 		"icons",
 		"syntax highlighting"

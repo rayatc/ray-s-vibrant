@@ -1,6 +1,11 @@
-# Ray's Vibrant Theme for Visual Studio Code
+<div align="center">
+
+# Ray's Vibrant
+
+A dark elegant and colorful monokai-inspired theme for Visual Studio Code.
 
 ![Preview](https://github.com/rayatc/ray-s-vibrant/blob/master/icon.png?raw=true)
+</div>
 
 ## Installation
 
@@ -9,3 +14,7 @@
 3. Click **Install** to install it.
 4. Click **Reload** to reload the editor.
 5. File > Preferences > Color Theme > Ray's Vibrant
+
+## Contributing
+
+See something strange? Please report [here](https://github.com/rayatc/ray-s-vibrant/issues). A screenshot would be great for clarification purposes.
