@@ -1,6 +1,6 @@
 # Ray's Vibrant Theme for Visual Studio Code
 
-![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot.png)
+![Preview](https://github.com/rayatc/ray-s-vibrant/blob/master/icon.png?raw=true)
 
 ## Installation
 
