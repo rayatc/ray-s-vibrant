@@ -4,7 +4,7 @@
 
 A dark elegant and colorful monokai-inspired theme for Visual Studio Code.
 
-![Preview](https://imgur.com/a/5N6Fk35)
+![Preview](https://i.imgur.com/SAwbG2E.png)
 </div>
 
 ## Installation
