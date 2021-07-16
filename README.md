@@ -1,5 +1,7 @@
 # Ray's Vibrant Theme for Visual Studio Code
 
+![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot.png)
+
 ## Installation
 
 1. Open Extensions sidebar panel in VS Code. **View → Extensions**
