@@ -4,7 +4,7 @@
 
 A dark elegant and colorful monokai-inspired theme for Visual Studio Code.
 
-![Preview](https://github.com/rayatc/ray-s-vibrant/blob/master/icon.png?raw=true)
+![Preview](https://imgur.com/a/5N6Fk35)
 </div>
 
 ## Installation
