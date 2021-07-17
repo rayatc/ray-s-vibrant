@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.0.4 (16.07.2021)
+## 0.0.4 (17.07.2021)
 
 - Fixed borders
 - Increased contrast
