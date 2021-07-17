@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.0.2 (16.07.2021)
+## 0.0.3 (16.07.2021)
 
 - Hotfix
 - added button colors!!
