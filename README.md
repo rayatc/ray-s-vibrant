@@ -7,7 +7,6 @@ A dark elegant and colorful monokai-inspired theme for Visual Studio Code.
 ![Preview](https://i.imgur.com/jYSOku2.png)
 </div>
 
-![Want more? gif](https://i.imgur.com/RnOzqVT)
 ## Installation
 
 1. Open Extensions sidebar panel in VS Code. **View → Extensions**
@@ -19,3 +18,5 @@ A dark elegant and colorful monokai-inspired theme for Visual Studio Code.
 ## Contributing
 
 See something strange? Please report [here](https://github.com/rayatc/ray-s-vibrant/issues). A screenshot would be great for clarification purposes.
+
+![Hope you liked it!!! gif](https://gfycat.com/bothfortunateleopardseal-drawing-deadpool-painter-parody-teaser)
