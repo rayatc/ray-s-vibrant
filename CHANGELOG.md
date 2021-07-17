@@ -1,6 +1,10 @@
 # Change Log
 
-## 0.0.2 (15.07.2021)
+## 0.0.2 (16.07.2021)
+
+- Hotfix
+- added button colors!!
+## 0.0.2 (16.07.2021)
 
 - added theme preview image
 - added theme icon
