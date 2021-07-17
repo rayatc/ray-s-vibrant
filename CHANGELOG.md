@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.4 (16.07.2021)
+
+- Fixed borders
+- Increased contrast
+- Renewed icon and preview
 ## 0.0.3 (16.07.2021)
 
 - Hotfix
