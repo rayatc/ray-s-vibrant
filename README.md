@@ -19,4 +19,4 @@ A dark elegant and colorful monokai-inspired theme for Visual Studio Code.
 
 See something strange? Please report [here](https://github.com/rayatc/ray-s-vibrant/issues). A screenshot would be great for clarification purposes.
 
-![Hope you liked it!!!](https://tenor.com/R8AO.gif)
+![Hope you liked it!!!](https://i.imgur.com/tyeIABl.gif)
