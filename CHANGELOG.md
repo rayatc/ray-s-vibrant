@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.5 (26.07.2021)
+
+- Adjusted Bracket-match background
+- Fixed error squiggles
+- Renewed icon
 ## 0.0.4 (17.07.2021)
 
 - Fixed borders

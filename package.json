@@ -2,7 +2,7 @@
     "name": "ray-s-vibrant",
     "displayName": "Ray's Vibrant",
     "description": "Dark monokai based theme with colorful syntax highlighting",
-    "version": "0.0.4",
+    "version": "0.0.5",
 	"icon": "icon.png",
 	"publisher": "rayated",
     "engines": {
